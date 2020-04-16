@@ -1,0 +1,15 @@
+2020-Apr-15 15:59:10 PM [main] INFO  com.ha.qa.web.uiframework.configurations.Configs - Configs loaded from properties file: C:\Users\achyuthram_kotagiri\Desktop\uitests\target\classes\configurations\Config.properties
+2020-Apr-15 15:59:14 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - ChromeDriver initiated.
+2020-Apr-15 15:59:16 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Navigate to url: "https://google.com"
+2020-Apr-15 15:59:17 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Enter  "QAAutomation" as Enter search Key
+2020-Apr-15 15:59:18 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - WebDriver Quit Completed.
+2020-Apr-15 16:02:46 PM [main] INFO  com.ha.qa.web.uiframework.configurations.Configs - Configs loaded from properties file: C:\Users\achyuthram_kotagiri\Desktop\uitests\target\classes\configurations\Config.properties
+2020-Apr-15 16:02:50 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - ChromeDriver initiated.
+2020-Apr-15 16:02:51 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Navigate to url: "https://google.com"
+2020-Apr-15 16:02:52 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Enter  "QAAutomation" as Enter search Key
+2020-Apr-15 16:02:53 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - WebDriver Quit Completed.
+2020-Apr-15 16:04:55 PM [main] INFO  com.ha.qa.web.uiframework.configurations.Configs - Configs loaded from properties file: C:\Users\achyuthram_kotagiri\Desktop\uitests\target\classes\configurations\Config.properties
+2020-Apr-15 16:04:59 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - ChromeDriver initiated.
+2020-Apr-15 16:05:00 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Navigate to url: "https://google.com"
+2020-Apr-15 16:05:01 PM [main] INFO  com.ha.qa.web.uiframework.events.UIActions - Enter  "QAAutomation" as Enter search Key
+2020-Apr-15 16:05:02 PM [main] INFO  com.ha.qa.web.uiframework.common.DriverFactory - WebDriver Quit Completed.
