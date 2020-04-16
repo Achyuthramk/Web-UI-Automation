@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = "src/test/java/Features",
-        glue= {"com/ha/qa/web/uitests/pages"},
+        glue= {"com/qa/web/uitests/pages"},
         plugin = { "pretty", "html:reports" }
 )
 
